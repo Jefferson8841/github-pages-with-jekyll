@@ -1,3 +1,4 @@
-title: My First Blog
-author: Jfferson La Rosa
-description: My first blog in Github
+---
+title: "Mi first Post"
+date: 2021-09-09
+---
